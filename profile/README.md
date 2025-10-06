@@ -13,7 +13,7 @@
 <h1 align="center">Ijen Developer Indonesia (ijendev.id)</h1>
 
 <p align="center">
-  Software House • IoT • Digitalization • Live Streaming
+  Software House • IoT • Digitalization • Multimedia Support
   <br/>
   <a href="https://ijendev.id">Website</a> •
   <a href="mailto:contact@ijendev.id">Email</a> •
