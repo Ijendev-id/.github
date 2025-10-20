@@ -118,7 +118,7 @@ Selain pengembangan aplikasi, kami menyediakan layanan **Digital Marketing**, **
 ---
 
 ## 📫 Kontak
-- **Email**: contact@ijendev.id  
+- **Email**: admin@ijendev.id  
 - **Website**: https://ijendev.id  
 - **Partnership**: jadwalkan diskusi awal (gratis) via email.
 
